@@ -40,6 +40,10 @@
     text-decoration: underline;
 }
 
+.navbar a:visited{
+    color: white;
+}
+
 .navbar-collapse{
     background-color: #304673;
     padding: 10px;
